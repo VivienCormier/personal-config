@@ -1,1 +1,1 @@
-# Personal config ot zsh
+# Personal config ot zsh and vim
